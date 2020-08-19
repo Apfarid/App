@@ -1,0 +1,14 @@
+.add {
+    background-color: rgb(40 167 69);
+    border-color: rgb(40 167 69);
+    border-radius: 5px;
+    color: rgb(255 255 255);
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.li {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}

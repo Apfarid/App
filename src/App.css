@@ -1,0 +1,17 @@
+.container {
+  margin: 0 200px 0 200px;
+}
+
+body {
+  background-color: #d9d7d8;
+  font-family: "Roboto", sans-serif;
+}
+
+.row {
+  background-color: #fff;
+  border-radius: 10px;
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  margin-top: 50px;
+}

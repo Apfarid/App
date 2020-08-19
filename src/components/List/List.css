@@ -1,0 +1,26 @@
+.bottom {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: #005bbb;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 15px;
+  height: 25px;
+  width: 70px;
+}
+
+.list {
+  border: 1px solid;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  padding: 7px;
+  width: 300px;
+}
+
